@@ -13,7 +13,7 @@ except ImportError :         #python 3
     from tkinter import filedialog
     import tkinter.messagebox as msgbox
 
-import ttk
+from tkinter import ttk
 from PIL import ImageTk, Image
 
 try :
